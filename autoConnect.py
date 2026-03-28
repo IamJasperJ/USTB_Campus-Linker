@@ -79,6 +79,8 @@ def submitVerification(text):
     return False
     
 if __name__ == '__main__':
+    # 输入学号和校园网密码
+    # 如果非用于测试，务必修改最后一行的阻塞时间 !
     Sid = ''
     password  = ''
     assert Sid != '' and password != '', "Sid and Password is empty."
