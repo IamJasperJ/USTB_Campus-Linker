@@ -1,0 +1,10 @@
+.*
+!.gitignore
+test*
+build
+dist
+*.spec
+新建文件夹
+simply_way*
+autoConnect.py
+__*
